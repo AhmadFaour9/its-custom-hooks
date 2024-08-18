@@ -1,0 +1,34 @@
+{
+  "name": "its-custom-hooks",
+  "version": "1.0.8",
+  "type": "module",
+  "description": "A collection of custom React hooks for simplifying common tasks in React applications. These hooks are designed to enhance the development process by providing reusable and efficient solutions for common patterns and functionalities in React projects.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadFaour9/its-custom-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "custom hooks",
+    "hooks",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Eng. Ahmad Faour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AhmadFaour9/its-custom-hooks/issues"
+  },
+  "homepage": "https://github.com/AhmadFaour9/its-custom-hooks#readme",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "its-custom-hooks": "^1.0.3",
+    "react": "^18.3.1",
+    "typescript": "^5.5.4"
+  }
+}
